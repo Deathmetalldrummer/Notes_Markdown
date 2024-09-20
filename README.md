@@ -1,6 +1,6 @@
-## Оглавление
+# Оглавление
 
-1. [Angular](./Notes/Angular.md)
+1. [Angular](./Notes/Angular/Angular.md)
 
 2. [C++](./Notes/C++.md)
 
@@ -10,17 +10,17 @@
 
 5. [Algorithm](./Notes/Algorithm.md)
 
-7. [TypeScript](./Notes/TypeScript.md)
+6. [TypeScript](./Notes/TypeScript/TypeScript.md)
 
-8. [JavaScript](./Notes/JavaScript.md)
+7. [JavaScript](./Notes/JavaScript.md)
+
+8. [RxJS](./Notes/RxJS/RxJS.md)
 
 9. [Git](./Notes/Git.md)
 
 10. [RegExp](./Notes/OOP.md)
 
-10. [Linux](./Notes/Linux.md)
-
-    
+11. [Linux](./Notes/Linux.md)
 
 
 
