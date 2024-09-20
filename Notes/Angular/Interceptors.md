@@ -1,0 +1,1 @@
+https://www.stackchief.com/tutorials/HTTP%20Interceptor%20Angular

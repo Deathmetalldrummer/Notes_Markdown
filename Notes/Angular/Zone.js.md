@@ -1,0 +1,1 @@
+https://medium.com/@kamil.galek/mythical-angular-angular-myth-there-is-no-difference-between-applicationref-tick-cde08a3f289a

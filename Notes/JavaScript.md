@@ -1,0 +1,1 @@
+Уроки NodeJS Angular. Разработка приложения CRM с нуля на NodeJS https://www.youtube.com/playlist?list=PLo_TKgaR3o1HDJGZbxAGXbBF8dCBmTWnm
