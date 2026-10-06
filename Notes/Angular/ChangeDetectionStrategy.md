@@ -2,7 +2,7 @@
 
 [Статья](https://www.infiniswiss.com/blog/angular/2020/10/23/change-detection-angular/)
 
-В Angular для обнаружения изменений используется библиотека [Zone](./Zone.js.md).
+В Angular для обнаружения изменений используется библиотека [Zone](Zone.js.md).
 
 В Angular есть две стратегии обнаружения изменений — «Default» и «onPush»
 

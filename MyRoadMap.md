@@ -1,11 +1,11 @@
 1. Оптимизация 
-   1. [Оптимизация верстки](./Notes/Layout_(Вёрстка)/Оптимизация_вёрстки.md)
-   2. [Оптимизация JS](./Notes/JS/Оптимизация_JS.md)
-   3. [Оптимизация Angular](./Notes/Angular/Оптимизация_Angular.md)
-1. [Синхронный/Асинхронный/Реактивный код](./Notes/JS/Async_Sync_Reactive.md)
+   1. [Оптимизация верстки](Оптимизация_вёрстки.md)
+   2. [Оптимизация JS](Оптимизация_JS.md)
+   3. [Оптимизация Angular](Оптимизация_Angular.md)
+1. [Синхронный/Асинхронный/Реактивный код](Async_Sync_Reactive.md)
 2. Архитектура Angular
    1. Modules
-   2. [Interceptors](./Notes/Angular/Interceptors.md)
+   2. [Interceptors](Interceptors.md)
    3. DI
    4. Injection
    5. Store (State)

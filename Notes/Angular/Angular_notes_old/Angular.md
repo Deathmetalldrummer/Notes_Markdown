@@ -126,7 +126,7 @@ platformBrowserDynamic().bootstrapModule(AppModule);
 
 В Angular есть четыре формы привязки данных:
 
-![DataBinding](./img/databinding.png)
+![DataBinding](databinding.png)
 
 - Привязка элемента DOM к значению компонента (**односторонняя**). В двойных фигурных скобках указывается выражение, к которому идет привязка: `{{value}}`. Например:
 
@@ -190,7 +190,7 @@ _Оба компонента должны быть импортированы в
 
 ## input !!!
 
-![@Input](./img/Input.png)
+![@Input](Input.png)
 
 
 ### Output !!!
@@ -210,7 +210,7 @@ https://angular.io/docs/ts/latest/guide/template-syntax.html#!#inputs-outputs
 
 ### Жизненный цикл
 
-![life cycle](./img/life-cycle.png)
+![life cycle](life-cycle.png)
 
 * **ngOnChanges**: вызывается до метода ngOnInit() при начальной установке свойств, которые связаны механизмом привязки, а также при любой их переустановке или изменении их значений. Данный метод в качестве параметра принимает объект класса SimpleChanges, который содержит предыдущие и текущие значения свойства.
 

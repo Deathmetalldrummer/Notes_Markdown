@@ -1,5 +1,5 @@
 # Gulp
-![gulp](./img/gulp.png)
+![gulp](gulp.png)
 
 ## Установка
 

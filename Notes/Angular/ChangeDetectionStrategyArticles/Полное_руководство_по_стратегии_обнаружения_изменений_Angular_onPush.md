@@ -6,7 +6,7 @@
 
 [Автор оригинала: Netanel Basal](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 
-![image](./img/jm5dyiipzat3zakd81_2szw50es.jpeg)
+![image](jm5dyiipzat3zakd81_2szw50es.jpeg)
 
 
 
@@ -389,7 +389,7 @@ export class TabComponent {
 
 
 
-![image](./img/o2lgem7b-4tkb-vf8yhsgtueaz0.png)
+![image](o2lgem7b-4tkb-vf8yhsgtueaz0.png)
 AppComponent.ngfactory.ts
 
 Простым решением в этом случае будет создание сеттера и вызов **markForCheck()**.

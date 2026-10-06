@@ -1,6 +1,6 @@
 # Оглавление
 
-1. [Angular](./Notes/Angular/Angular.md)
+1. [Angular](Notes/Angular/Angular.md)
 
 2. [C++](./Notes/C++.md)
 
@@ -21,6 +21,3 @@
 10. [RegExp](./Notes/OOP.md)
 
 11. [Linux](./Notes/Linux.md)
-
-
-
